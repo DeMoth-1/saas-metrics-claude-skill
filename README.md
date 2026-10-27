@@ -15,6 +15,8 @@ Every metric carries the traps that actually happen in SaaS finance, built in as
 - **One-time/services revenue excluded from MRR — always**, and reconnections reported separately from new logos
 - **Audit trail on every headline number** — source table, row filter, formula
 
+👉 **See a worked example** (input export → waterfall → NRR/GRR → diagnosis): [`examples/mrr-waterfall-demo.md`](./examples/mrr-waterfall-demo.md)
+
 If a metric can't be computed from your data, it says `insufficient data` and lists exactly what's missing. An honestly-missing metric beats an invented one.
 
 ## Install (30 seconds)
